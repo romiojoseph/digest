@@ -1,7 +1,7 @@
 {
-    "name": "AT Proto Digest - Curated Feeds",
+    "name": "AT Proto Digest",
     "short_name": "Digest",
-    "description": "Each collection is a digest of Bluesky posts, properly categorised and tagged, gathered around a specific topic and made available like a feed.",
+    "description": "Each collection is a digest of Bluesky posts, properly collected and tagged, gathered around a specific topic, and made available as a feed.",
     "start_url": "/digest/manage",
     "display": "standalone",
     "background_color": "#ffffff",
